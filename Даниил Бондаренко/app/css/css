@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+h1 {
+    text-align: center;
+
+}
+body{
+    background: grey;
+}
+main{
+    width: 70%;
+    background: white;
+    padding: 50px;
+    margin: auto;
+}
+.photo{
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    margin: 20px;
+
+
+
+}
